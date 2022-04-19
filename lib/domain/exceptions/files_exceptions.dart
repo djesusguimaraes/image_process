@@ -1,0 +1,1 @@
+class NullFilePicked implements Exception {}
